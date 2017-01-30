@@ -1,8 +1,12 @@
-### General Information
+### General information
 
-- Mode (Sandbox/Live):
-- PayPal-Debug-ID(s) (from any logs, if applicable):
+* Mode. Either sandbox or live:
+* `PayPal-Debug-ID` values. If applicable, report debug IDs from any logs:
+* Language and version of language used:
+* SDK version:
 
-### Issue Description
+### Issue description
 
-> Please include as many details (logs, steps to reproduce) as you can to help us reproduce this issue faster. If the ask is a feature, please follow the [User Story format](https://en.wikipedia.org/wiki/User_story) so we can fully understand the use case.
+> Include as many details as you can to help us reproduce this issue faster. Include details such as logs, steps to reproduce, and so on. 
+
+If the issue reports a new feature, follow the [user story](https://en.wikipedia.org/wiki/User_story) format to clearly describe the use case.
