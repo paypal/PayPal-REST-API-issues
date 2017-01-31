@@ -5,15 +5,15 @@ Use this repo to track PayPal REST API-related issues.
 
 This repo tracks issues that were previously tracked as server issues in the [PayPal SDK and plugin repos](#paypal-sdk-and-plugin-repos). 
 
-Each issue reports a REST API bug, documentation update, or new feature. To learn when to [file issues](#file-issues) and how to [label issues](#label-issues), read the following topics.
+Each issue reports a REST API bug, documentation update, or new feature. To learn when to [file issues](#file-issues) and how [issues are labeled](#issue-labels), read the following topics.
 
 ## File issues
 
-Before you file an issue, search this repo for any existing issues that report your same issue. If you must file a new issue, complete the [issue template](.github/ISSUE_TEMPLATE.md) with as many details as possible.
+Before you file an issue, search this repo for any existing issues that report your same issue. To file an issue, complete the [issue template](.github/ISSUE_TEMPLATE.md) with as many details as possible.
 
-## Label issues
+## Issue labels
 
-After you triage an issue, you must tag each issue with a minimum of two labels:
+After issues are triaged, each issue is labeled with a minimum of two labels, as follows:
 
 | Label | Description |
 |:------|:------------|

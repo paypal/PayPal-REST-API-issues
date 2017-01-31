@@ -7,6 +7,6 @@
 
 ### Issue description
 
-> Include as many details as you can to help us reproduce this issue faster. Include details such as logs, steps to reproduce, and so on. 
+> To help us quickly reproduce your issue, include as many details as possible, such as logs, steps to reproduce, and so on. 
 
 If the issue reports a new feature, follow the [user story](https://en.wikipedia.org/wiki/User_story) format to clearly describe the use case.
