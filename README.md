@@ -1,27 +1,36 @@
-PayPal REST API Issues
-====================================
-Issue tracking for REST APIs bugs, features, and documentation requests.  This repo is a replacement for all the various server issues that were previously tracked using PayPal SDK repositories.
+PayPal REST API issues
+======================
 
-## Categorization
+Use this repo to track PayPal REST API-related issues.
 
-Once triaged, all issues will have a minimum of two labels, specifying whether it's a bug, feature, or documentation issue, and another specifying the affected API.  It is possible that an issue spans more than one API, in which case it will have more than one API label.
+This repo tracks issues that were previously tracked as server issues in the [PayPal SDK and plugin repos](#paypal-sdk-and-plugin-repos). 
 
+Each issue reports a REST API bug, documentation update, or new feature. To learn when to [file issues](#file-issues) and how [issues are labeled](#issue-labels), read the following topics.
 
-## Filing issues
+## File issues
 
-As with any issue tracker, we advise you to search this repository for an existing issue before filing a new one as there may be an existing issue with the same. If you're certain that you are adding a new issue, please fill out the issue template with as many details as possible.
+Before you file an issue, search this repo for any existing issues that report your same issue. To file an issue, complete the [issue template](.github/ISSUE_TEMPLATE.md) with as many details as possible.
 
+## Issue labels
 
-Repositories that use REST APIs
-====================================
-The following repositories directly use PayPal REST APIs, and now track API issues within this repo:
+After issues are triaged, each issue is labeled with a minimum of two labels, as follows:
 
+| Label | Description |
+|:------|:------------|
+| **bug**, **docs**, or **feature** label | Indicates whether the issue reports a bug, documentation update, or new feature. |
+| One or more API labels | The API or APIs with the issue. |
+
+PayPal SDK and plugin repos
+===========================
+
+These SDK and plugin repos now use this repo to track REST API issues:
+
+* [PayPal Android SDK](https://github.com/paypal/PayPal-Android-SDK)
+* [PayPal Cordova Plugin](https://github.com/paypal/PayPal-Cordova-Plugin)
+* [PayPal iOS SDK](https://github.com/paypal/PayPal-iOS-SDK)
+* [PayPal Java SDK](https://github.com/paypal/PayPal-Java-SDK)
+* [PayPal .NET SDK](https://github.com/paypal/PayPal-NET-SDK)
+* [PayPal Node SDK](https://github.com/paypal/PayPal-node-SDK)
 * [PayPal PHP SDK](https://github.com/paypal/PayPal-PHP-SDK)
 * [PayPal Python SDK](https://github.com/paypal/PayPal-Python-SDK)
 * [PayPal Ruby SDK](https://github.com/paypal/PayPal-Ruby-SDK)
-* [PayPal .NET SDK](https://github.com/paypal/PayPal-NET-SDK)
-* [PayPal node SDK](https://github.com/paypal/PayPal-node-SDK)
-* [PayPal Java SDK](https://github.com/paypal/PayPal-Java-SDK)
-* [PayPal Android SDK](https://github.com/paypal/PayPal-Android-SDK)
-* [PayPal iOS SDK](https://github.com/paypal/PayPal-iOS-SDK)
-* [PayPal Cordova plugin](https://github.com/paypal/PayPal-Cordova-Plugin)
