@@ -17,7 +17,7 @@ After issues are triaged, each issue is labeled with a minimum of two labels, as
 
 | Label | Description |
 |:------|:------------|
-| **bug**, **feature**, **dev-docs**, or **dev-dashboard** label | Indicates whether the issue reports a bug, documentation update, or new feature. |
+| **bug**, **feature**, **dev-docs**, or **dev-dashboard** label | Indicates whether the issue reports a bug, new feature, documentation update, or a developer dashboard problem. |
 | One or more API labels | The API or APIs with the issue. |
 
 PayPal SDK and plugin repos
